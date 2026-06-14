@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GHLearning.EasyGmailSmtp.Application/GHLearning.EasyGmailSmtp.Application.csproj" />
+    <Project Path="src/GHLearning.EasyGmailSmtp.Domain/GHLearning.EasyGmailSmtp.Domain.csproj" />
+    <Project Path="src/GHLearning.EasyGmailSmtp.Infrastructure/GHLearning.EasyGmailSmtp.Infrastructure.csproj" />
+    <Project Path="src/GHLearning.EasyGmailSmtp.WebApi/GHLearning.EasyGmailSmtp.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GHLearning.EasyGmailSmtp.Application.Tests/GHLearning.EasyGmailSmtp.Application.Tests.csproj" />
+    <Project Path="tests/GHLearning.EasyGmailSmtp.Domain.Tests/GHLearning.EasyGmailSmtp.Domain.Tests.csproj" />
+    <Project Path="tests/GHLearning.EasyGmailSmtp.Infrastructure.Tests/GHLearning.EasyGmailSmtp.Infrastructure.Tests.csproj" />
+    <Project Path="tests/GHLearning.EasyGmailSmtp.WebApi.Tests/GHLearning.EasyGmailSmtp.WebApi.Tests.csproj" />
+  </Folder>
+</Solution>
