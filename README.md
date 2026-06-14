@@ -1,5 +1,12 @@
 # GHLearning.EasyGmailSmtp
 
+[![.NET](https://github.com/gordon-hung/GHLearning-EasyGmailSmtp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gordon-hung/GHLearning-EasyGmailSmtp/actions/workflows/dotnet.yml)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gordon-hung/GHLearning-EasyGmailSmtp)
+
+[![codecov](https://codecov.io/gh/gordon-hung/GHLearning-EasyGmailSmtp/graph/badge.svg?token=DdVkrafzsW)](https://codecov.io/gh/gordon-hung/GHLearning-EasyGmailSmtp)
+
+
 一個以 **.NET 10 / ASP.NET Core Minimal API** 實作的輕量電子郵件發送服務，採用 **Clean Architecture** 分層設計。
 透過 Google Gmail SMTP 寄出純文字信件，唯一的對外端點是 `POST /api/emails`。
 
